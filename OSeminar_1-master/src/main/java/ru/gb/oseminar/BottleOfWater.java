@@ -1,4 +1,4 @@
-package main.java.ru.gb.oseminar;
+package ru.gb.oseminar;
 
 public class BottleOfWater extends Product {
     private double volume;

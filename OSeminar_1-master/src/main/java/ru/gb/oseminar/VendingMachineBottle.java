@@ -1,4 +1,4 @@
-package main.java.ru.gb.oseminar;
+package ru.gb.oseminar;
 
 import java.util.ArrayList;
 import java.util.List;

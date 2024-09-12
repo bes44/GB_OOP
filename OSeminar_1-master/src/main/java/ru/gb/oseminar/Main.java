@@ -7,10 +7,6 @@
  */
 
 package ru.gb.oseminar;
-import main.java.ru.gb.oseminar.BottleOfWater;
-import main.java.ru.gb.oseminar.VendingMachineBottle;
-import main.java.ru.gb.oseminar.VendingMachineHotDrinks;
-import main.java.ru.gb.oseminar.HotDrinks;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
