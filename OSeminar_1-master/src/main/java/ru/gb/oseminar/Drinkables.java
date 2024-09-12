@@ -1,6 +1,5 @@
 package ru.gb.oseminar;
 
-import java.math.BigDecimal;
 
 /**
  * Класс напитков
