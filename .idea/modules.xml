@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW01/HW01.iml" filepath="$PROJECT_DIR$/HW01/HW01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OSeminar_1-master/OSeminar_1-master.iml" filepath="$PROJECT_DIR$/OSeminar_1-master/OSeminar_1-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OSeminar_2-master/OSeminar_2.iml" filepath="$PROJECT_DIR$/OSeminar_2-master/OSeminar_2.iml" />
+    </modules>
+  </component>
+</project>
